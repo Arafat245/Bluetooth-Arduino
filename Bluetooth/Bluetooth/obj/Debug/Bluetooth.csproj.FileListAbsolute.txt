@@ -1,0 +1,9 @@
+c:\users\arafat\documents\visual studio 2015\Projects\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe.config
+c:\users\arafat\documents\visual studio 2015\Projects\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe
+c:\users\arafat\documents\visual studio 2015\Projects\Bluetooth\Bluetooth\bin\Debug\Bluetooth.pdb
+c:\users\arafat\documents\visual studio 2015\Projects\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csprojResolveAssemblyReference.cache
+c:\users\arafat\documents\visual studio 2015\Projects\Bluetooth\Bluetooth\obj\Debug\Bluetooth.Properties.Resources.resources
+c:\users\arafat\documents\visual studio 2015\Projects\Bluetooth\Bluetooth\obj\Debug\Bluetooth.csproj.GenerateResource.Cache
+c:\users\arafat\documents\visual studio 2015\Projects\Bluetooth\Bluetooth\obj\Debug\Bluetooth.exe
+c:\users\arafat\documents\visual studio 2015\Projects\Bluetooth\Bluetooth\obj\Debug\Bluetooth.pdb
+c:\users\arafat\documents\visual studio 2015\Projects\Bluetooth\Bluetooth\obj\Debug\Bluetooth.Form1.resources
