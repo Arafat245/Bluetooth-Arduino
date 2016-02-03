@@ -5,10 +5,8 @@ void setup()
 {
   myconnection.begin(9600);
 }
-
 void loop()
 {
   myconnection.println("My name is Arafat");
   delay(600);
 }
-
